@@ -10,7 +10,7 @@ Some images were taken from the following image bank:
 * [Freepik](https://www.freepik.com)
 * [coverr](https://coverr.co)
 * [Pexels](https://www.pexels.com)
-* [Dribble](https://dribbble.com)
+* [Dribbble](https://dribbble.com)
 * [Unsplash](unsplash.com)
 
 ## Install
